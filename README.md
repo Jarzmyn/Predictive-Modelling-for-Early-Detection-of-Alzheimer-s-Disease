@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue) 
 
+
 This repository presents the development and evaluation of predictive models for the early detection of Alzheimer's Disease (AD) using non-imaging clinical data from the Open Access Series of Imaging Studies (OASIS-1 and OASIS-2) datasets. 
 
 Several machine learning models, including Logistic Regression, Decision Trees, Random Forests, and XGBoost, were trained and evaluated using accuracy, precision, and interpretability metrics such as confusion matrices, ROC curves and SHAP values. Notably, the Random Forest and XGBoost models achieved high performance, with accuracy around 95.90% and AUC-ROC scores of 0.98.
