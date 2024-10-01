@@ -79,7 +79,7 @@ deactivate
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your improvements.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 
 This integrated README structure provides a full overview of the project from high-level features and model evaluations to detailed setup instructions, all in a single document. 
