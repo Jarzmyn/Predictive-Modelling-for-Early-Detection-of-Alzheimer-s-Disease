@@ -1,0 +1,10 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
+"features": {
+    "rust": "latest"
+}
+
+"ghcr.io/devcontainers/features/docker-in-docker:2": {}
